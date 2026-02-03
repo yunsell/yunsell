@@ -74,18 +74,19 @@
   ## 📊 PLAYER STATS 📊
   
 </div>
-
-<!-- GitHub Stats - Retro Terminal Theme -->
+<!-- GitHub Profile Summary Cards - Retro Terminal Theme -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunsell&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&ring_color=00FF00" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsell&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yunsell&theme=github_dark" alt="GitHub Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunsell&theme=github_dark" alt="Top Languages" height="180"/>
 </div>
-
 <br>
-
-<!-- Streak Stats - Retro Theme -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunsell&background=000000&stroke=00FF00&ring=00FF00&fire=FF6600&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunsell&theme=github_dark" alt="Profile Details"/>
+</div>
+<br>
+<!-- Streak Stats - Vercel Mirror (대체 인스턴스) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yunsell&background=000000&stroke=00FF00&ring=00FF00&fire=FF6600&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
