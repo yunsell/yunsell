@@ -34,9 +34,9 @@
 │   > CURRENT QUEST                                                │
 │   ═══════════════                                                │
 │                                                                  │
-│   ◈ Building awesome projects                                   │
-│   ◈ Learning new technologies                                   │
-│   ◈ Contributing to open source                                 │
+│   ◈ Building awesome projects                                    │
+│   ◈ Learning new technologies                                    │
+│   ◈ Contributing to open source                                  │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
